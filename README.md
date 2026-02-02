@@ -1,4 +1,4 @@
 # Covert-Routing-with-DSSS-Signaling-Against-Cycle-Detectors
 
-This is the repository of the simulation code "Covert-Routing-with-DSSS-Signaling-Against-Cycle-Detectors". The paper has been accepted at the IEEE Wireless Communications and Networking Conference
-2026
+This work has been accepted for publication at the IEEE Wireless Communications and Networking Conference (WCNC) 2026.
+Conference website: https://wcnc2026.ieee-wcnc.org/
